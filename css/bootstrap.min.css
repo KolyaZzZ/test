@@ -1454,7 +1454,6 @@ hr {
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
     font-family: inherit;
-    font-weight: 500;
     line-height: 1.1;
     color: inherit
 }
@@ -1508,6 +1507,8 @@ hr {
 }
 
 p {
+	font-size: 20px;
+	color: #23527c;
     margin: 0 0 10px
 }
 
@@ -1860,6 +1861,8 @@ pre code {
 }
 
 .row {
+	font-size: 20px;
+	color: #23527c;
     margin-right: -15px;
     margin-left: -15px
 }
