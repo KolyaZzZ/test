@@ -1357,9 +1357,9 @@ html {
 
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 17px;
+    font-size: 18px;
     line-height: 1.42857143;
-    color: #240df4;
+  color: #23527c;
     background-color: #dff5f6
 }
 
@@ -1507,8 +1507,6 @@ hr {
 }
 
 p {
-	font-size: 20px;
-	color: #23527c;
     margin: 0 0 10px
 }
 
@@ -1861,8 +1859,7 @@ pre code {
 }
 
 .row {
-	font-size: 20px;
-	color: #23527c;
+	
     margin-right: -15px;
     margin-left: -15px
 }
